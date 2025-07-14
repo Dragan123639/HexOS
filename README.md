@@ -24,14 +24,15 @@ It features a basic command line interface (CLI), system info (like `neofetch`),
 - `grub-mkrescue`
 - `qemu`
 
+## 🧑‍💻 License
+
+This project is licensed under the GPLv3 License.  
+See [LICENSE](LICENSE) for details.
+
+
 ### Build
 
 ```bash
 make
 make run
 
-
-## 🧑‍💻 License
-
-This project is licensed under the GPLv3 License.  
-See [LICENSE](LICENSE) for details.
