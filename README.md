@@ -28,6 +28,9 @@ It features a basic command line interface (CLI), system info (like `neofetch`),
 
 ```bash
 make
+make run
+
+
 ## 🧑‍💻 License
 
 This project is licensed under the GPLv3 License.  
